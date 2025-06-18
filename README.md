@@ -49,14 +49,14 @@ The API is at `http://localhost:8000` (use your port).
                 "price": 14.99, 
                 "quantity": 1,
                 "isImported": false 
-                },
+            },
             { 
                 "category": "perfume", 
                 "name": "Creed", 
                 "price": 47.50, 
                 "quantity": 1, 
                 "isImported": true 
-                }
+            }
         ]
     }
     ```
