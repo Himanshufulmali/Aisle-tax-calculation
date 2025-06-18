@@ -1,5 +1,5 @@
 const express = require('express');
-const { welcomeUser, getBillReceiptWithTaxes } = require('./controller');
+const { welcomeUser, getBillReceiptWithTaxes } = require('../controllers/tax-calculation-controller');
 
 const router = express.Router();
 

@@ -1,4 +1,4 @@
-const { checkDataValidation, roundTheAmount } = require("./utils");
+const { checkDataValidation, roundTheAmount } = require("../utils/utils");
 
 // working code with broot force
 // exports.taxCalculation = (products) => {

@@ -1,4 +1,4 @@
-const { taxCalculation } = require("./tax-calculation")
+const { taxCalculation } = require("../handlers/tax-calculation")
 
 exports.welcomeUser = (req,res) =>{
     res.status(200).send({
