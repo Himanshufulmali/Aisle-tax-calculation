@@ -1,0 +1,91 @@
+[
+
+{ "comment": "Sample body 1 ------------- " },
+
+{
+    "products": [
+        {
+            "category": "perfume",
+            "name": "dior",
+            "price": 27.99,
+            "isImported": true,
+            "quantity": 1
+        },
+        {
+            "category": "perfume",
+            "name": "creed",
+            "price": 18.99,
+            "isImported": false,
+            "quantity": 1
+        },
+        {
+            "category": "food",
+            "name": "chocolate",
+            "price": 11.25,
+            "isImported": true,
+            "quantity": 1
+        },
+        {
+            "category": "medical",
+            "name": "pill",
+            "price": 9.75,
+            "isImported": false,
+            "quantity": 1
+        }
+    ]
+},
+
+
+
+{ "comment": "Sample body 2 ------------ " },
+
+{
+    "products": [
+        {
+            "category": "food",
+            "name": "chocolate",
+            "price": 10.00,
+            "isImported": true,
+            "quantity": 1
+        },
+        {
+            "category": "perfume",
+            "name": "dior",
+            "price": 47.50,
+            "isImported": true,
+            "quantity": 1
+        }
+    ]
+},
+
+
+
+{ "comment": "Sample body 3 ------------ " },
+
+{
+    "products": [
+        {
+            "category": "books",
+            "name": "fairy tale",
+            "price": 12.49,
+            "isImported": false,
+            "quantity": 1
+        },
+        {
+            "category": "music",
+            "name": "music cd",
+            "price": 14.99,
+            "isImported": false,
+            "quantity": 1
+        },
+        {
+            "category": "food",
+            "name": "chocolate",
+            "price": 0.85,
+            "isImported": false,
+            "quantity": 1
+        }
+    ]
+} 
+
+]
