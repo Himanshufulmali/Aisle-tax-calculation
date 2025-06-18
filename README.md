@@ -55,7 +55,8 @@ The API is at `http://localhost:8000` (use your port).
                 "name": "Creed", 
                 "price": 47.50, 
                 "quantity": 1, 
-                "isImported": true }
+                "isImported": true 
+                }
         ]
     }
     ```
