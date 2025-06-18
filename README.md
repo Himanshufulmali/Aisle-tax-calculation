@@ -65,10 +65,10 @@ The API is at `http://localhost:8000` (use your port).
 * **You'll get back (Success):**
     ```json
     [
-        "1 CD: 16.49",
-        "1 imported Perfume: 54.65",
-        "Sales taxes: 7.65",
-        "Total: 71.14"
+         "1 CD: 16.49",
+         "1 imported Creed: 54.65",
+         "Sales taxes: 8.65",
+         "Total: 71.14"
     ]
     ```
 * **You'll get back (Error if input is wrong):**
