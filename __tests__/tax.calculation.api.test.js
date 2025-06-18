@@ -85,7 +85,7 @@ describe('API: /api/v1/tax-calculation', () => {
                 .send({}); 
 
             expect(res.statusCode).toEqual(201);
-            expect(res.body).toEqual({ error: 'Please check the input fileds' });
+            expect(res.body).toEqual({ error: 'Please check the input fields' });
         });
 
         // Invalid product data 
@@ -99,7 +99,7 @@ describe('API: /api/v1/tax-calculation', () => {
                 .send({ products });
 
             expect(res.statusCode).toEqual(201);
-            expect(res.body).toEqual({ error: 'Please check the input fileds' });
+            expect(res.body).toEqual({ error: 'Please check the input fields' });
         });
     });
 });

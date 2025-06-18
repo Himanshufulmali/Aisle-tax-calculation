@@ -20,7 +20,7 @@ exports.checkDataValidation = (products) => {
     const { error } = validateProductSchema.validate(products);
 
     if (error) {
-        return { error: 'Please check the input fileds' }
+        return { error: 'Please check the input fields' }
     }
 }
 

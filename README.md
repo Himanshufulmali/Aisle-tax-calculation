@@ -73,7 +73,7 @@ The API is at `http://localhost:8000` (use your port).
     ```
 * **You'll get back (Error if input is wrong):**
     ```json
-    { "error": "Please check the input fileds" }
+    { "error": "Please check the input fields" }
     ```
 
 ---

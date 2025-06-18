@@ -84,7 +84,7 @@ exports.taxCalculation = (products) => {
     let productInformationStorageArray = [];
 
     if (checkInputFields?.error) {
-        return { error: 'Please check the input fileds' }
+        return { error: 'Please check the input fields' }
     }
 
     products.forEach((data) => {
